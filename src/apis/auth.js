@@ -1,5 +1,5 @@
 import axios from "axios";
-const backendUrl = import.meta.env.BACKEND_URL;
+const backendUrl = import.meta.env.VITE_BACKEND_URL;
 
 //job apis 
 //registerUser ,loginUser  ,validateUser 
